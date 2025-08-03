@@ -1,4 +1,4 @@
-# Chuan Lin (@chuan0418)
+# chuan0418-com (@chuan0418)
 
 **A Taiwanese high school student passionate about programming**
 
@@ -9,69 +9,51 @@
 ## Programming Languages & Skills
 
 ### Frontend Development
-- **HTML**
-- **JavaScript**
-- **Bootstrap**
+- HTML, JavaScript, Bootstrap
 
 ### Backend Development
-- **PHP**
-- **Python**
-- **MySQL**
+- PHP, Python, MySQL
 
 ### Platforms & Tools
-- **Apache2**, **Nginx**, **WordPress**, **GitHub**, **GCP**, **DigitalOcean**, **Cloudflare**, **Docker**
+- Apache2, Nginx, WordPress, GitHub, GCP, DigitalOcean, Cloudflare, Docker
 
 ### Scripts & Applications
-- **Bash Script**
-- **Batch**
-- **Discord Bot**
-- **LINE Bot**
+- Bash Script, Batch, Discord Bot, LINE Bot
 
 ### I'm Still Learning
-- **C++**
-- **Machine Learning**
+- C++, Machine Learning
 
 ### Other Skills
-- **🎺 Trumpet**
-- **🎹 Piano**
+- 🎺 Trumpet, 🎹 Piano
 
 ---
 
 ## Projects
 
-### Custom Command Menu
+### [Custom Command Menu](https://github.com/chuan0418-com/teablack_DIY_cmdlist)
 - Integrate frequently used commands and scripts
 - Simplify daily operation processes
-- **Tech Stack:** Batch
-- **GitHub:** [teablack_DIY_cmdlist](https://github.com/chuan0418-com/teablack_DIY_cmdlist)
 
-### Life Answer System
+### [Life Answer System](https://tools.chuan0418.com/answers-system-of-the-life/)
 - Digitize the heavy "Book of Answers"
 - Users can contribute their own quotes
 - Supports offline use, works without internet
-- **Tech Stack:** PHP, MySQL
-- **Try Now:** [Life Answer System](https://tools.chuan0418.com/answers-system-of-the-life/)
 
-### Article Generator
+### [Article Generator](https://tools.chuan0418.com/category_wordstools/article-generator/)
 - Optimized based on the "Bullshit Generator" project
 - Custom article keywords
-- **Tech Stack:** PHP, MySQL
-- **Try Now:** [Article Generator](https://tools.chuan0418.com/category_wordstools/article-generator/)
-- **GitHub:** [article-generator](https://github.com/chuan0418-com/article-generator)
+- **Repo:** [chuan0418-com/article-generator](https://github.com/chuan0418-com/article-generator)
 
 ### Taiwan Earthquake Dr. Bot
 - Taiwan Earthquake Early Warning System
 - Integrate 地牛WakeUp! Earthquake Early Warning API
 - Real-time push to Discord channel
-- **Tech Stack:** Python, Discord Bot
-- **Status:** 🔒 Private Project
 
 ### Yongping Notifier
 - Automatically filter and sort important learning information
 - Custom notification filtering and categorization
 - LINE Bot real-time push notifications
-- **Tech Stack:** PHP, MySQL, LINE Bot, Discord Bot
-- **GitHub:** [yphsNotify](https://github.com/chuan0418-com/yphsNotify)
+- **Repo:** [chuan0418-com/yphsNotify](https://github.com/chuan0418-com/yphsNotify)
 
 ---
 
@@ -118,8 +100,6 @@
 ### Social & Professional
 - **Blog** - [chuan0418.com](https://www.chuan0418.com/)
 - **Email** - [contact#ch418.tw](mailto:contact@ch418.tw)
-- **GitHub** - [chuan0418-com](https://github.com/chuan0418-com)
-- **Shopee** - [Online Store](https://shopee.tw/shop/336016156)
 
 ---
 
